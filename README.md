@@ -21,7 +21,6 @@
 
 ### 📫 Связаться со мной
 - 💬 Telegram: @srgchprnn
-- 
 - ✉️ Email: srg.chprnn@mail.ru
 
 ---
