@@ -8,6 +8,13 @@
 - 🕸️ **Парсинг сайтов** — сбор, очистка и структурирование данных в нужном формате
 - 🎨 **Вёрстка лендингов** — адаптивные страницы на HTML и CSS
 
+### 🚀 Мои работы
+| Проект | Описание | Ссылка |
+|--------|----------|--------|
+| 🎨 **Лендинг-визитка** | Адаптивный сайт на HTML/CSS | [Открыть сайт](https://srgchprnn-ops.github.io/landing-page/) · [код](https://github.com/srgchprnn-ops/landing-page) |
+| 🤖 **Telegram-бот** | Рабочий бот на aiogram, 24/7 | [Открыть бота](https://t.me/srgparsingbot) · [код](https://github.com/srgchprnn-ops/telegram-portfolio-bot) |
+| 🕸️ **Демо-парсер** | requests + BeautifulSoup → CSV/JSON | [код](https://github.com/srgchprnn-ops/web-scraper-demo) |
+
 ### 🛠️ Технологии
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
