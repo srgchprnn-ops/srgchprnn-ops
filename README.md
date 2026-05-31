@@ -20,8 +20,9 @@
 </p>
 
 ### 📫 Связаться со мной
-- 💬 Telegram: _@username — заменить_
-- ✉️ Email: _указать или оставить форму связи_
+- 💬 Telegram: @srgchprnn
+- 
+- ✉️ Email: srg.chprnn@mail.ru
 
 ---
 
